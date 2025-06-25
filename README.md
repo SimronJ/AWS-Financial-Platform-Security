@@ -3,7 +3,8 @@
 ![System Architecture Diagram](diagram.png)
 ### Website: https://group7-static-website.s3.us-east-2.amazonaws.com/index.html
 ![Website](website.png)
-
+## Team:
+![TeamNames](team.png)
 ## Overview
 This project provides a comprehensive, modular Infrastructure as Code (IaC) solution using Terraform to secure and manage a public-facing financial services web application on AWS. It implements best practices for security, monitoring, alerting, and disaster recovery, ensuring high availability, rapid threat detection, and robust data protection.
 
@@ -49,4 +50,3 @@ This project provides a comprehensive, modular Infrastructure as Code (IaC) solu
 - S3 cross-region replication and RDS snapshot copy for data durability.
 - Route 53 DNS failover for rapid recovery.
 - Regular DR testing and monitoring recommended.
-
