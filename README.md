@@ -1,10 +1,11 @@
 # AWS Financial Platform Security & Disaster Recovery
-### System Architecture Diagram: https://app.eraser.io/workspace/haSxO9jPHL94zgbhB0Hh?origin=share
+### [System Architecture Diagram:](https://app.eraser.io/workspace/haSxO9jPHL94zgbhB0Hh?origin=share)
 ![System Architecture Diagram](diagram.png)
-### Website: https://group7-static-website.s3.us-east-2.amazonaws.com/index.html
+### [Website:](https://group7-static-website.s3.us-east-2.amazonaws.com/index.html)
 ![Website](website.png)
 ## Team:
 ![TeamNames](team.png)
+## [Google Doc](https://docs.google.com/document/d/1tVQUJNV1JQDyi1gsuUL4mkZLNrDxdhy8GNTV5netxkg/edit?usp=sharing)
 ## Overview
 This project provides a comprehensive, modular Infrastructure as Code (IaC) solution using Terraform to secure and manage a public-facing financial services web application on AWS. It implements best practices for security, monitoring, alerting, and disaster recovery, ensuring high availability, rapid threat detection, and robust data protection.
 
